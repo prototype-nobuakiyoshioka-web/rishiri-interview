@@ -38,6 +38,46 @@
     padding: 0;
   }
 
+  .interview-tabs {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 22px auto 0;
+    max-width: 980px;
+  }
+
+  .interview-tab {
+    appearance: none;
+    background: #f6f7f9;
+    border: 1px solid #d8dee8;
+    border-radius: 999px;
+    color: #57606a;
+    cursor: pointer;
+    font: inherit;
+    font-weight: bold;
+    line-height: 1.2;
+    padding: 10px 14px;
+  }
+
+  .interview-tab:hover {
+    background: #eef5ff;
+    color: #0969da;
+  }
+
+  .interview-tab.is-active {
+    background: #0969da;
+    border-color: #0969da;
+    color: #ffffff;
+  }
+
+  .tab-panel {
+    counter-reset: section;
+  }
+
+  .tab-panel:not(.is-active) {
+    display: none;
+  }
+
   .section {
     counter-increment: section;
     margin: 0;
@@ -185,6 +225,16 @@
       padding-right: 16px;
     }
 
+    .interview-tabs {
+      gap: 6px;
+    }
+
+    .interview-tab {
+      flex: 1 1 calc(50% - 6px);
+      padding-left: 10px;
+      padding-right: 10px;
+    }
+
     .section {
       padding-bottom: 28px;
       padding-top: 28px;
@@ -196,9 +246,18 @@
 
 <header class="page-header">
 <h1>利尻富士町に住む人へのインタビュー</h1>
-<p class="lead">回答者：ケンタ（仮）さん</p>
+<p class="lead" id="current-interview-label">回答者：ケンタ（仮）さん</p>
+<nav class="interview-tabs" aria-label="インタビュー切り替え">
+<button class="interview-tab is-active" type="button" data-tab-target="interview-kenta" data-respondent="ケンタ（仮）さん" aria-controls="interview-kenta" aria-selected="true">ケンタ（仮）さん</button>
+<button class="interview-tab" type="button" data-tab-target="interview-t" data-respondent="T課長" aria-controls="interview-t" aria-selected="false">T課長</button>
+<button class="interview-tab" type="button" data-tab-target="interview-i" data-respondent="新卒Iさん" aria-controls="interview-i" aria-selected="false">新卒Iさん</button>
+<button class="interview-tab" type="button" data-tab-target="interview-y" data-respondent="転職Yさん" aria-controls="interview-y" aria-selected="false">転職Yさん</button>
+<button class="interview-tab" type="button" data-tab-target="interview-s" data-respondent="島生まれ島育ちSさん" aria-controls="interview-s" aria-selected="false">島生まれ島育ちSさん</button>
+</nav>
 </header>
 
+<main>
+<div class="tab-panel is-active" id="interview-kenta">
 <section class="section">
 <h2>生い立ちと利尻島で育った時間</h2>
 <p><span class="q1">[質問者1]</span> っての待ちやな。やっぱ本気のケンタさんみたいな。いや、[1]</p>
@@ -380,6 +439,55 @@
 <p><span class="ans">[ケンタ（仮）さん]</span> 願いします。[23]</p>
 <p><span class="q1">[質問者1]</span> ありがとうございます。ちょっとじゃ僕多分ビジセンター無理っぽいので種谷さんここでインタビューもしちゃ[23]</p>
 </section>
+</div>
+
+<div class="tab-panel" id="interview-t">
+<section class="section">
+<h2>T課長</h2>
+</section>
+</div>
+
+<div class="tab-panel" id="interview-i">
+<section class="section">
+<h2>新卒Iさん</h2>
+</section>
+</div>
+
+<div class="tab-panel" id="interview-y">
+<section class="section">
+<h2>転職Yさん</h2>
+</section>
+</div>
+
+<div class="tab-panel" id="interview-s">
+<section class="section">
+<h2>島生まれ島育ちSさん</h2>
+</section>
+</div>
+</main>
+
+<script>
+  const tabs = document.querySelectorAll('.interview-tab');
+  const panels = document.querySelectorAll('.tab-panel');
+  const currentInterviewLabel = document.querySelector('#current-interview-label');
+
+  tabs.forEach((tab) => {
+    tab.addEventListener('click', () => {
+      const targetId = tab.dataset.tabTarget;
+      currentInterviewLabel.textContent = `回答者：${tab.dataset.respondent}`;
+
+      tabs.forEach((item) => {
+        const isActive = item === tab;
+        item.classList.toggle('is-active', isActive);
+        item.setAttribute('aria-selected', String(isActive));
+      });
+
+      panels.forEach((panel) => {
+        panel.classList.toggle('is-active', panel.id === targetId);
+      });
+    });
+  });
+</script>
 
 </body>
 </html>
