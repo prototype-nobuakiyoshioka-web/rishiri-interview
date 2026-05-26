@@ -1,0 +1,1193 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  .interview-container {
+    font-family: sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .questioner {
+    background-color: #e6f2ff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-left: 5px solid #0066cc;
+  }
+  .respondent {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-left: 5px solid #2ca02c;
+  }
+  .speaker-label {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  .section-break {
+    margin: 30px 0;
+    border-bottom: 1px dashed #ccc;
+  }
+</style>
+</head>
+<body>
+
+<div class="interview-container">
+
+  <!-- インタビュー前の打ち合わせ（利尻_種谷さん_01.mp3） -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>オッケーです。ありがとうございます。苦しくないですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、大丈夫です。さん違ったんですけど、えっと、今から次健太さん 14 時なんでまず我々ここの解決で 14 時までしてその後にお昼健太君とあのちょっと密着ちょっと撮影をしていただきたいなと思って 大体長くてま、 1 時間</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。大体終わるの何時ぐらいんですか?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あの、それは 2 時半ぐらいまで、 30 分ぐらいあの仕事風景の密着を取らさせて いただき事務所で</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。な、事務所でっちゅうのもね、なんか外仕事とかあったらそれな、外仕事もないけど、ま、でも軽く本当にこういう、あ、 30 分も取るの?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いや、じゃあ 15 分でいきましょう。本当数カットぐらい取らさせていただければ</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>なんか周りの人もいるからあれだな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ちょっと本当ご迷惑かからない。うん。りました。撮影というのを</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>と、そっから</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>もしよかったらビジターセンターの方で</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はいはい</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>集というかまたちょっとインタビュー</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ああ全然俺ビジターセンターだと関係ないけどいいんですか?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あのというのもあのどうしても室内だけだと絵が限られないんで外のせっかくな自然も見えるした風景の絵を</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>取りながらてはいうまいすけどあんまり俺仕事にビジターセンター関わりないからまあまあいいすけどはい。なんか周りが木に囲まれてるからあの風の音が入りにくい うん。そした。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、いや、いい、いいですよ。他つってもないんで。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>感じです。だからちょっとそういった時間、あの、時間使いただきはい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。いいです。いいです。うん。わかりました。わかりました。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>お願いします。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>じゃあ聞きたいことたくさん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ああ、</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ま、多分今まで結構話したんで</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>今回の我々がこう元々聞きたかったことて結構ま、 いただいてる多いんですけど。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、ま、そん中で、ま、質問形式やってくってよりは、とりあえずこれこだけ聞いときたいなっていうのが 1 つあって、それ以外はちょっと会話の中で色々ちょっとさして話をします。で、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>まず結論から種谷さんに今日のインタビューでこう聞きたいことは今後未来どういう風にこう地域がこう成長していったらいいなって思いがあるかと</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そういった部分を、ま、テーマに話をしたいなと思ってます。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、ま、もう意して その分かるだけなんですけど</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 役場の目標設定について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>例えば昨日話したあの例えばこの役場の中でま、年間で目標を掲げて何かこう取り込みをしてるってお話だったじゃないですか。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>それってなんか目標設定の仕方って例えばこの利尻富士町、ま、この島が将来なんかこういう形にしていきたいなっていうところに対してなんかそういう目標設定とかをしてんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、その目標設定っていうか業務のためじゃなくて人事評価のための目標設定なんでちょっと今聞いてる質問 い 本当は書き離れてんのかなとは思うんですけど。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>まあね、課長が組織目標を作って</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、その中で、ま、自分たちの持ってる分野での地域課題だとかなんだとかっていうのをその組織目標として何点か出して、その中からまた新たに係がチョイスして、じゃこの 1 年間これについてはこれを達成することを目標にやっていこうとかっ 立てていくもんなんで</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。これって言ったことじゃなくて、それぞれの目標っていうもんなんで、ま、役場としてとかっていうのとはちょっと違うのかな。ま、結果役場のためにはなってる</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>でしょうけど。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。あ、楽しくな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、当然ね、計画があって</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いろんな目標を掲げて、ま、そういうのって 1 年で成し遂げれるもんじゃないんで、 5 年スパンで考えたりだとか、例えば 水産業だったら漁業生産額を</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>今これだけのもの 5 年後これだけにしていこうだとか観光業だったら年間の宿泊者数これだけのものを 5 年後これだけにしていこうだとか増やすものもあれば当然間違いなく減少していくんだろうっていうものをどう遅化させていくっていうような目標もあるだろうし</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、それぞれいろんな分野でいろんな目標をなんか掲げながらはやってます。 うん。そんなとこなんですよね。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>例えば今こう、ま、 1 年できるものじゃないから何年かかけてやるとこと思うんですけど、ここ何年かでじゃ、その何年かかけてやった結果なんかこういう風に変わったものがあるようになるってあるんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、結果ね</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>なんていうか、その目標達成っていうのはなかなか難しくて、そこには至ってないものがまあまあほぼほぼ多いのかなとは思う。 だ けど 結局 その いろんな 分野 で 目標 掲げ て やっ てく けど それって最終 的 に たどり着く ところ は島 の 外 に 転出してもらわ ない よう に する とかっ て いう とこ に 繋がって いく ん で まそう いう 点 で は やっぱり 転出 の 歯止め はかけられ て ない ん で</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うんうん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>最終的なゴール と し て は ま目標 は 達成 でき て ない の か なっ て いう ところ は ある ん で ま、これと言ってね、これは本当すごい成功して</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>成果があったっていうものは、ま、なかなか</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ないっていうか、出てこないのかな。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>暗い話だけど。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 昔と今の島の変化について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、そうですね。まあでも、ま、仕事の話もありますけど、種谷さん、そのルーツ的な部分さんはずっともう利尻に、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、利尻島に</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>生まれ育って大学では出られましたけど、また戻って。 うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、今に至る中で昔のこれ良かったなとか逆に今はこうなってよかったみたいなその利尻富士町、島としての変化的なものとなんか感じることとか思うことで</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。やっぱ昔はね人もいっぱいいたから</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>家もいっぱい立ってたしけど今はもう家なんかも少なくなってね。 昔の方が当然人が多い分活気に満ちてたっていうのもあるし、漁業なんかも今よりもいっぱいウニだとか昆布だとかも取れてたんで、ま、で、漁業者も多かったし、漁船だとかも多かったから、ま、やっぱ港に賑わいがあったのかな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ていうのはあるけど、まあ、今やっぱり漁業後継者なんかも少なくなってて、だんだんだんだん漁師も少なくなって</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>港の賑わいっていう点でも、ま、水産資源っていう点でもウニなんかもう全然取れなくなっちゃってるんで衰退してきてるものが多いけど、ま、やっぱ生活面ではやっぱね、コンビニできたり</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ホームセンターみたいのできたりフェリーだって昔なんかちっちゃくてすっごい揺れるようなフェリーだったのに今もう大きいフェリーで稚内に渡れるようになってるし飛行機だってもう通年で札幌で飛んでるんで札幌の 移動 なんか も すぐ できる よう に なっ てる し 、 ま 、 光 回線 なんか も 結構 早め に 平成 20 年 ぐらい に は 引かさっ てる ん で 、 その 情報 通信 って いう 面 で も まあま 恵まれ た 環境 に は ある の か 、 便利 な 環境 に なっ てる の か なっ て いう の は 思い ます ね 。 うん 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>めっちゃ 興味 です けど 、 コンビニ が なかっ た 時 は また なんか こう 別 の や けど なんか そう いう お 店 と か また 別ん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、コンビニできるまではしばらく衰退してたけど、ま、けどやっぱ地域に店屋があったんで</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、俺は鬼脇っていうとこ出身だけど、今もう本当にコンビニ以外で生鮮食品とか買うとしたら 2 店舗ぐらいしかないけど、昔は本当に 5 件、 6 件って何件もあったんで。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>へえ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。し、なんかその店屋の 繋がりだとか地域との繋がりもやっぱり近かったような気がして。うん。ま、子供たちもいっぱいいたからね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>そういう面でも地域に賑わいはあったのかなとはうん。思うんですけどね。うん。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 人口減少と移住政策について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>子供たち思い出した。思い出したというか、さっきあの岩南さんにお話聞いた時にお子さんの同級生が 3 人しかない。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>え、で、そのお子さんが高校に上がる時に高校あるのかなみたいな それそういう若い世代の方たちが大人なるま</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>とか利尻富士町だったりっていうこの利尻島の展望っていうかこうなってたらいいなんていうども含めて</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>まやっぱねもうこうなると衰退は避けられないんだよね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>なんでま、その時代に合わせてあのなんかスマートシュリンクとかっていうこと もあるみたいだけど、こうやっぱ賢く縮んでいくしかないのかなと思いながら</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>その縮み方を正しい縮み方を考えていかないとダメなのかなっていう思いはしててうん。なんでその労働力なんかもう当然島の中では賄えなくなってきてるんで</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>当然島の外から呼んでこなきゃダめになってくるんだろうから俺がま、この部署着て 今 もう 係長 から 持ち上がっ て 10 年 この 仕事 やっ てる ん だ けど 、 やっぱ 10 年 前 に 移住 定住 って いう 仕事 が 手つか ず で まず やり 始め た 時 の 移住 と か の 考え 方 って こう 退職 し たり こう 仕事 を やめ たり リタイヤ組 なんか の 老後 に ま 、 こう いう 過ごし やすい利尻島 に 来 て 過ごし みたい から 始まっ て</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>その 後なんかもやってきて で 、 関係 人口 みたい な 言葉 も 増え て き て 、 じゃあ 次 は こう 関係 人口 を 増やし ながら そこ で 島 の こと 気 に 入っ て くれ た 人 が 将来 的 に 移住 に つがれ ば いい ね みたい な 考え で 来 て た ん だ けど 本当 ここ 2、3 年 で も 町 の 中 の いろんな 分野 で の 労働不足 みたい の が 労働 力不足 みたい の が もう すごい 耳 に する よう に なっ て き て ま これ から は もう 移住 政策ってもう労働力の獲得と直結してくるのかなっていう。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>そういう支度を手打っていかないとダメなのかなと思ってますけどね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。そうです。ただ観光来る人が増えたとかワーホリが増えただけでは</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なく通年というか、ま、定住して</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>バリバリ働</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。そうですね。うん。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 漁師プログラムと移住者の定着 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>種谷さん、昨日、あの、佐々木さんお話た時にあの漁師のプログラム、あそこのちょっとお伺いしたんですけど</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんか大体こう年間募集で来る人が全部で大体 10 名弱ぐらいそこから実際に来られて</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>定住またでよし、じゃあ数ヶ月こでやるぞってなる方が大体なんか 2、3 名みたいな調べて返してるんですけどうん。うん。うん。やっぱりね、その辺りの最初応募してここ来てその上で続けよう。 なるに最後ここまで 2、3 人になってしまったとこはここってなんかこの 2、3 人になったとこでなんかこうちょっと思ってたのと違ったからあの戻りますとかなんかそういうお話とかって聞いたりするんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。ま、俺も水産やってたから</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、直接的には聞いたことないけどやっぱね、わざわざ来てみて</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>親方の元で働いてみたら、ま、ちょっと親方とも合わなかっただとかうん。逆に親方の方がやっぱちょっとこいつあれだな。 とかっていうのとかはやっぱ人間関係なんで少なからずあるのかなっていう。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、ま、島の環境なんかもきっと短期でやってみるよりは長期で過ごしてみたりして</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>しかもなんかこう冬とか挟んだりしてとかって色々あるのかなと思いますけどね。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島暮らしに向いている人・コミュニケーション -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。あ、なんかこう逆に今までま、ちょっと今の漁師の話って要するにこう外から来られる方がこの島</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん 経験をして</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。どういうこう感じ方をするのかっていう話をちょっと聞いてみたかったんですけど、今ここに来られてる実際に移住された方多分種谷さんが周りで何かこう実際に働かされてる方がいらっしゃると思うんですけど</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんかあ、こういう性質の人ってこの離島に移住してきて暮らすのに向いてるなって思ったりするとあったりしますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、別にね、こうタイプとかっていうのはあれだけどやっぱりな、何て言うのかな? ああ、人に地域に溶け込めるっていうのか。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ある程度コミュ力の高い人はやっぱこういう田舎なんで</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>人と関わらないで生きていくっていうことが逆に難しいのかなと思ってて。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、隣近所付き合いなんかも結構島の人なんでお節介焼きの人なんかもいるし何気なく喋ったことがあんまりちょっと良くなく捉えちゃったりだとかうん。うん。 そういうのもしかしたらあるかもしれないしうん。なんかこう人とうまく地域に溶け込んで接していける人そういう能力ってやっぱ大事頭の良さだとかなんだとかっちゅうよりそっちの方が大事かなとは思いますけどね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。だからみんな作に僕らでもなんか僕は結構受け身な方なんですけどやっぱ島来てあのま最初からかわかんないけどあんたどこの昆布手伝いて声かけてもらえるんでうん。使うされる感じでそっからま行くから仲良くなれるみたいな部分もあるんで受け身な人からしてもそれはまいい意味では</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いい面として捉えられるから来やすいのかなっていう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、結構ね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、移住した人じゃないけど俺の知り知ってる人で</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>島の外から釣りしに島に来て普通に 路線バスで移動して</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>釣り終わってバス停でもう 1 時間か 2 時間に 1 本ぐらいしか来ないバスだからバス停で黙ってたって魚の釣りの道具だとか魚だとか持ってポツンと待ってたらバス停の近所のおばさんがそんなとこでずっと立ってれば大変だから家の中入りなって言ってくれたどっかから来たかわからない見ず知らずの人にもそういう声かげるんだなってびっくりしたって言ってましたけど けど、ま、そういうところがいいとこなのかなとは思いますけどね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。本当に多分岩南さんも、あ、岩南さんもあの</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>フェリーターミナルから歩いて登ってる人とか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>乗ってくって声かける。多分嘘なんですけど。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。いやいやいやいやいや、南ちゃんならすると思う。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>やっぱりあっかいその地域性なんだな。めっちゃ感じますね。そこがやっぱり あの、いわゆる離島とかと、ま、違う、魅力。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんか他の離島とかあの行くとどっちかというと観光客商売めっちゃするためにそのために話しかけるみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ああ、</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あんたどこにうのじゃなくて、あんたどこの店でお昼食べるの?で食べろみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ああ、なるほどなるほど。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>確かにそこも違いますよね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>え、それって?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。 あの、なんか、ま、さっきのちょっと塩崎君の質問の昔と今変わりましたかという質問あったと思うんですけど、反対にこう変わってない部分がそのなんか昔からのかな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。確かにそれはあるかもしれないですよね。脈々脈々と</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>こう利尻島の</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>に住む人のもうスピリットとして埋め込まれてるみたいなうん。うん。のはあるかもしれないですよね。うん。やっぱ例えばなんかこう利尻島のま、なんかこうなんだろうな。 県民じゃないけど住民の性格とか島の性格表すとなんかそういうこうコミュニケーション能力高いとか</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>なんか思いやって声をかそういうところがなんか昔から結構手かれてるもとか</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うんうん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま漁師なんかもね口は悪いけど一見喋ってるのだけ聞けば怒られてんじゃないかと思うことあるけどすげえ親切なこと言ってくれたりとか</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ええ</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あるからねうんま基本的に心はあったかいのかな と思いますけどね。うん。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島での子育てと医療・教育環境 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>種谷さん全く話変なんですけど普通に気になっててその結婚されて奥さんも育ててっていう中でその島で家族として子供を育てていく中でいいとことか悪いこととかあると思うんですけどどう考えますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、やっぱり子供小さい時は、ま、うちの子供はあんまり 大きい病気とかもしあまり大きい病気なんかしなかったしまた体質的にも比較的強い方だったからけどある時こう中耳炎になってま急遽島の外の稚内の病院に連れて行かなきゃダめだってなった時にはやっぱもう休日でもあったんでもう隣の病院でまず見てもらって本当にもうギリギリセーフで最終日の船乗れたんだけどやっぱり医療っていう点ではな なんかあった時にやっぱ陸続きじゃないのは不安だなっていうのは若い時には感じてましたね。今のお父さんお母さん方なんかもしかしたらそこら辺は感じてるのかな。ま、日中だったら飛行機乗せたり普通にフェリー乗せたりで外には出れるんだけど本当緊急の時って本当にもう中にはね夜中の搬送になって海上保安庁呼んで外に出したり 海上保安庁の巡視船来てそれに乗せて外出したりとかっていうようなパターンもあるんで実際。うん。やっぱそういう子供小さい子供がいるじゃあそういう医療とかっていう面ではやっぱり</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>不安に感じてる部分は自分自身あったかなと思うけど環境的にはめちゃくちゃ自然豊かでいいところだしみんな知り合い子供たちなんてみんな兄弟みたいもんでね。まあまあ全部の学年がそうかどうかわかんないけど ま、うちの娘の学年なんか本当に仲良かったし、親同士も本当仲良くて</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いじめするようなことも本当なかったから。うん。で、学校の先生とかも親身でね、うちの娘とかのクラスだって 14 人とか 13、4 人とかそれぐらいしかいなかったから</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>マンツーマンってわけじゃないけど本当にうん。うん。すごいしっかり勉強なんか教えてくれたりして</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、うち娘も高校で札幌出たんだけど</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、結構札幌北海道の中では毎年あの倍率 1 位になるようなところの公立高校にま入れたんで本当</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>それてやっぱここの学校の先生方ってやっぱすごいなってその時娘がすごいなとかってことじゃなくていや娘の自慢でもないんだけどやっぱりこの学校の先生方てやっぱすごいなって普通にあげててもそういうとこ他のね同級生もその学年すごい出たのさ その高校にでその並み結構いい高校にみんな入ったからあ、いや、高校中学の先生方ってすごいな。どんどんど思いましたね。うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>子供のあの成長とかそういうかなり環境に制御されるって言います。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>都会だとだってやっぱり不審者がだとか保護者会が仲悪くてだとかめっちゃ うん。すごい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>メリットとしてありますね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。もうレクなんかも絶対ね、や、やってたんで。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>半年に 1 回だとか子供たちと親集まってそれこそやきやきやったりだとか。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>へえ。めっちゃいいです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。でもうん。ま、シーズンが悪いっていうのとあと滞在日数が長くとれてないっていうのもあるんですけどやきやきをまだ見たことがない。うん。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島ならではの食文化とストッカー -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、そうなんだっけ?地元の人がやるやってるか。ああ、確かに今まだ時期じゃないもんね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>もう 6 月ぐらい入ればそこら辺歩いてれば大抵土日の夕方あたりは焼きやきの匂いがするという炭の香りが</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、僕は平日に来てました。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>俺も結構今嫁と 2 人だけど、うんと 焼き肉やるかみたいな感じでうん。したりとか全然してるんで。ほとんどの人あの焼き台と炭だとか常駐してる感じ。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>へえ。僕ら時にま、多分好きなもの買ってちょっとま、なんちゃってヤキやきんですけど、なんかその地元の人がやる時にこれ絶対にこの具材使ってるよとかこういう調理法味付けのもの見れるとかなんかあったりするか。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>まずはね、絶対ホタテは焼くかな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。 はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>隣の鬼脇っていうところにホタテの直売所あるから。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>結構安く買えるんだよね。 5、6 枚入ってるのかな?で、全然 500 円ぐらいで買える。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ええ、安いちゃ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>安い、安い、安い。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。え、前ましたっけ?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。 2 手はさんのところで毎週の豊島さん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ああ。ああ。はい。はい。取っといてもら。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あーん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そっか。そっか。ありました。でもそんなめっちゃ正義がなかったです。え、おかしい。 あんまでも全然確かにね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。ならではうん。ホタテは絶対焼くと思う。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、あとそれぞれだね。イカもう冷凍してたイカ焼いたりだとかアワビ焼いたりだとかうちにも冷凍庫に去年の冬のアワビまだ入ってるけど今焼きやき時期なったら それ出して焼いたりだとか</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>冷凍庫長くてすごいですよ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>結構島の人島の人ってま、うちにはないけどうちの実家なんかにはあるんだけど普通の冷蔵庫についてる冷凍室だったら足りないからストッカーってあの冷凍庫持ってる家。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>これなんかお菓子屋のアイスクリームケースみたいなあですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、なんかそういうのとはま、形的にはそんな感じなんだけどスーパーのアイスケースじゃなくて普通に これパソコンの蓋閉じるみたいになんかこうかバってあるみたいな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ああ、なるほど。はい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>居酒屋の冷凍。あ、ま、そんなそんな感じでそこに色々魚介類がストックされてたり、ま、肉なんかも入るんだろうけど、それってやっぱ知り合いの漁師からもらってうん。食べれないものを冷凍しておくだとかっていうのもあるし、やっぱ島の人って島の厳しさ知ってるから冬とかなって 3 日船欠航することなんか、ま、たまに あるんで昔はもっとザラにもあっただろうしなんでそういう時はもう商店から商品が消えてくんでその冷凍してるものを食べるだとかそういう知恵も含めてそういうストッカーは持ってる家庭が多いのよねえなそういう背景があって</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 次の撮影についての打ち合わせ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うんありがとうございますちょい時間 14 時に過ぎて健太さんとか聞いかな</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん、なんかさっきに俺んとこに車の鍵借りに来てたから</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、本当ですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。ああ、あれ誰か俺入ってるから気にしてんだべか呼びますか?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そうですね。多分ま、まだ種谷さんとお話しするタイミングあると思うんで、一旦ちょっとこの時間。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、いいす、いいす。うん。俺は全然はい、大丈夫です。うん。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>じゃ、ちょっとまた質問さ、はい、わかりました。じゃあ、一旦ちょっと</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございます。これま、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>あ、これだね。マイク、マイク、あれは とかそのまま行ってわ。誰?あ、広田さんは別にな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、そうです。次健太さん密着させてください。風景の映像をなんか今のうちすり合わせておきたくてなんか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、作業風景というか本当に普通にって事務仕事してでいいですか?</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- インタビュー本編の開始（自己紹介と仕事内容）利尻_種谷さん_02.mp3 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい、ありがとうございます。はい、いい感じです。でも本当りのあ、はい。全然いいや、いつもしたらですけど。はい。はい。お願いいたします。はい。最初は簡単にうん。ま、自己紹介みたいなところではい。と名前と、ま、どんなお仕事ではい。してるかでどのぐらい利尻にいるかみたいなうん。感じの自己紹介を はい、お願いしたいです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい、じゃ、あの、名前は種谷すぐです。利尻富士町役場の企画政策課長しております。で、主な仕事は、ま、町の企画立案、政策の企画立案だったり、離島振興だったり、交通安全対策だったり、防災まで結構役場の中では 1 番守備範囲が広い部署なんじゃないかなと思ってます。 私 、 あの 、 51 代 に なる ん です けど 、 島 は 大学 4 年間 と 就職 浪人 1 年 し て た の と 、 ま 、 その 前 に 予備校 も 1 年 行っ て 6 年離れ て た ん で 、 ま 、 45 年島 で 生活 し て ます ね 。 うん 。 そんな です ね 。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島の魅力（山と海） -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとう ござい ます 。 やっぱ 45 年間 と魅力 を とても 知っ てる と 思う ん です けど 、 まあ で も 大丈夫 。 なんですけど、利尻の魅力を お聞きしたいです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、正直若い時っていうか、もう極端な話卒業して 1 回出るまでは島の魅力とかっていうのを考えたことが全くなくて、ま、当然生まれてずっとこの環境で育ってきたんで、まあまあ自然があっていいところだなぐらいにしか思ってなかったんですけど、ま、こ 1 回 島 離れ て 、 ま 、 ちょこちょこ 夏休み だ な ん だ と は 帰っ て き て い ながら も 、 ま 、 実際 島 の 役場 に 入っ て 町 の 仕事 を する よう に なっ て 、 ま 、 だんだん だんだん その 仕事 やっ てく こと に よっ て こう 島 の 良 さ に 気づか れ て いっ た 。 で 、 ここ 最近 なんか は 特に 本当 これ から の 島 の ため の こと 考え て いか ない と ダメ な よう な 本当 部署 に いる ん で 、 ま 、 そんな 仕事 なんか し ながら も いろんな 気づき も あっ たり する ん だ けど やっぱり なん だ かん だ 言っ て も 利尻山 か な 。 1番 いい の は うん 。 象徴 的 な もの が やっぱり 利尻山 で あっ て で 海 に も 恵まれ て て ま 、 そう いう ところ で こう 自然 大 自然 に 育ま れ ながら 生活 でき て るっていうのは すごい 貴重 な こと な ん じゃ ない か なっ て 最近 思い 始める よう になってますね。うん。やっぱり利尻といえば山ですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。うん。はい。やっぱその中でも山、海とか自然の中でも山っていうのはうん。うん。もうすごい どこ歩いてもそう感じますので。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。象徴ですからね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。山での 1 番の思い出とかうん。いや、そういうのをお聞きしたいんですけど、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>山はね、実際初めて頂上まで登ったのが高校 1 年生だ。 だっ た か な 。 その 利尻 高校 に 全校 登山 って いう の が あっ て 、 ま 、 それ で 初めて 山 登っ て 頂上 から 下 を 始め て 見下ろし た ん です けど 、 その 時 は 正直 ね 、 特に 感動 も 何 も 覚え なかっ た し 、 ま 、 けど やっぱ 仕事 帰 、 仕事 やる よう に なっ て から は 山岳 遭難 救助 なんか で 登っ たり 、 あと 登山 道 整備 なんか で 登っ たり やっぱ こう 仕事 で の 思い出 が やっぱ 強い か なっ て いう こう ただ 綺麗 と かっ て いう だけ じゃ なく て そこ に は やっぱ 自然 の 厳し さ なんか が あっ て 怪我 し ちゃっ て 遭難 し ちゃっ たり ま 中には 到着 し たら なくなっ て たって いう ケース なんか も あっ た ん で やっぱ こう 雄大 で 綺麗 な だけ じゃ なく て やっぱ そこ に は 厳し さ が ある ん だ けど ま そう 今 の 雪山 なんか も そう な ん です けど やっぱ その 厳しいからこそなんかこう美しいのかなみたいなそんな思い出っちゅうのが、ま、山に対する印象はそんな感じですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>高いですね。いいですね。おお。後はちょっと変わるんですけど うん。ま、やっぱ海とかもやっぱ綺麗というか、ま、なんかずっといるからこそ分かる海の特徴というかうん。 の他の日本とは違うというかうん。なんかありますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ま、やっぱり海っていうか、ま、港も含めてなんだけど漁師町なんで港がねやっぱ賑わってこの島だと思うんですけど、ま、海は小さい時なんかは本当にもう学校帰ってきたらもうパンツ一丁で近くの港まですごい泳ぎに行ったりだとかしてたぐらいで本当に近いあったもので、また 大学 なんか も 八戸 の 方 に 行っ た ん だ けど 、 やっぱ こう 海 の ない ところ で 生活 するっ て いうのは ちょっと 考え られ ない なっ て 思っ て 札幌 なんか に も 住ん で い たり し た こと は あっ た けど うん 。 やっぱ 小樽 に 海 見 に 行っ たり だ と か し て た し やっぱ 海 って いう の は うん 。 ま 、 島 に は なく て は なら ない もの だ と 思う 。 ま 、 食 って いう 部分 に 関し て は きっと こう 利尻 昆布 って いう の は もう 本当 に 有名 で 最高級 の 一等 天然 の 一等 も って いう 昆布 が 本当 京都 の 一部 の 料亭 で しか 取り扱わ れ て ない 。 手 に 入ら ない よう な 昆布 で すごい 私 なんか も 取れ て ま それ を 餌 と し て 食べ てる エゾバフンウニ なん かっ て いう の も ま 本当 に 味 も 最高 で ウニ 嫌い な 人 で も 甘 て 利尻 の ウニ は 食べれるって いう 人 が 本当 何 人 も 聞く ぐらい 食 って いう 点 で は やっぱ 海 の 食 って いう 点 で は 昆布 と ウニ に 代表 さ れ て くる の か なっ て いう ところ は あり ます よ ね 。 ま 、 それ なんか も ただ 海 が ある だけ じゃ なく て きっと こう 山 から 何 年 も かけ て こう 水 が 浸透 し て いっ て そんな 水 が 海 に 流れ出し てっ て こう 山 に 育まれた ミネラル なんか で きっと 言葉違う昆布とかウニの味になってんじゃないかなって漁師なんかも言ってるんで。うん。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 仕事のやりがいと島の未来について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ま、そこら辺もね、さっきの話に戻るけどやっぱ山と海の繋がりっていうことになってくのかな。なんかちょっといい答えになってるかどうかわかんないんですけど。めちゃめちゃいい。ありがとうございます。そうですよね。まあ今はその色々すごい年月うん。かけてこういった環境とかそれをま、 45 年間 うん。いう種谷さんなのすごい見方というかルーツをたどらせていただいてありがとうございます。ちょっと仕事面みたいなところも聞きたくてですね。はい。はい。ま、なんかやりがいとかうん。こうなんですかね。島ならではの働く大変さみたいな、ま、それをどう乗り越えてるのかなっていうのをお聞きした。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。うん。いや、正直ね、乗り越えられてはないんだけど、まあまあ、今いる企画 政策 って いう ところ が 、 ま 、 さっき 始め で 自己 紹介 で 言っ た 通り 、 町 の 政策 の 企画 立案 だ と かっ て いう 点 で は 、 今 本当 町 に 足り ない もの なんか を 、 ま 、 町長 から 当然 指示 さ れ て 動く よう な もの も ある けど 、 ま 、 自分 なり に 探し て 見つけ て 提案 し て 事業 化 し て い くっ て いう よう な 部署 に なっ てる ん で 、 ま 、 そこ ら 辺 は すごい やらさ れ てる 感 が なく て 、 自分 で 作り上げ て やっ てる 感 が ある ん で 、 そこ は 本当 に 今 やっ てる 仕事 の 、 ま 、 満足 できる 部分 って いう か 、 やりがい が ある 部分 か な 。 ま 、 その 中 で なかなか 離島 と いう 大変 な 部分 も あっ て 、 例えば その 移住 なんか で も 本土 に 比べ て こう いう 特に こう 北 の 離島 なんか は 条件 が 不利 な ん で なかなか 移住 者 来 て くれ ない ん で 、 ま 、 そこ ら 辺 は 壁 に ぶち当たっ て るっていうか 、 やっぱ なかなか 超え られ ない 壁 だなというので何か達成できたなっていう達成感は今のところは全然持ててないしまあまだからこそままた次頑張れるっちゅうのもあると思うのでそんなとこですかね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ですね。じゃあま広田さんとか家からあったようにうん。例えばまいか 5 年後 10 年後移住者がもし増えうんうん。増え続けていった未来ワクワクするような未来ってなんか種谷さんなりに どんな未来がるかというか。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いや、そうなればいいですけどね。町は絶対もう出生率、出生数も下がってるしけど高齢者は、ま、出生数が増えるより、ま、高齢者なくなる方が多いんで自然減ってなっていくし、ま、島の高校中に入ってくるよりはこうの大学など に 進学 就職 なんか で 子供 たち も 外出 ちゃっ て 転出 の 方 が 多い ん で 転出 超過 に な 社会 減 が 増え ちゃう ん で 、 ま 、 そこ は もう 多分 避け られ ない 部分 な の か な 。 どんどん どんどん 人口 は 減っ てく の は 避け られ ない 部分 だ な と 思う から 、 ま 、 その 分 ね 、 移住 者 が いっぱい 入っ て き て くれれ ば いい ん だ けど 、 ま 、 当然 そんな うまく も いか ない だろう から 別 に そう ま 、 すごい バラ色 の 将来 を 想像 し てる わけ で は ない ん です けど 、 ま 、 まだまだ ね 、 こう 利尻島 って 世の中 に 知れ渡っ て ない ポテン シャ ルっ て ある と 思う ん で 、 そこ ら 辺 やっぱ 今 取材 受け てる の も そう だ けど 、 ま 、 どんどん どんどん まだまだ 島 の 魅力 みたい の を 外 に 発信 し ながら しつけ て いか なけれ ば 人 は 増え ない と 思っ てる ん で 、 ま 、 そこ は 本当 に 負け ない で 懲り ず に 継続していってなんとかちょっとでも将来的に移住する人が増えてくれればいいなとは思ってますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございます。了解ですね。いや、思いはすごい伝わります。一緒にやっていきましょう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>ぜひぜひ</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 移住者へのサポートとメッセージ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございます。あとでも先ほど何ですか?ま、これからそれこそ歓迎するっていうところにあっ で、新しく仲間になる人がうん、ま、いるとしたら、ま、どんな風に接していくというか、支えてあげていくのが 1 番のうん、あれなのかなて。ごめんなさい。ちょっとこれも抽象度高いというか、さっき健太さんにもお話を伺いした時にやっぱ新しい人が来たとしてもちょっとやめてしまうとかてことが多いっていうお話を聞いた上でうん。やっぱ健太さんはその側も変わっていくうん。うん。 迎いれる人たちもなんかうん。協力し合って温かく迎え入れようみたいなことおっしゃってたんですけど、種谷さんなりになんかそういう考えとかって</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。いや、健太の年代を思ってるんだったらね、うちらなんてなおさらもう昔の時代をい、健太なんかよりも何十年も昔の時代へ生きてきて、さらに昔の時代を生きてきた先輩方に仕事なんかも教わってきてるから古い考え方なんかでこり固まっちゃっててそこら辺は ね 、 当然 今 の 時代 に 合わせ て いか なきゃ ダめ だ と 思っ てる し 、 まあまあ そこ ら 辺 は 自分 で も こう いう 性格 なん で でき てん の か な と は 思う ん で 、 ま 、 仕事 に 関し て は まず 、 ま 、 好き に やら せ るっていうか 、 当然 課長 と し て 監視 管理 は し て なきゃ ダメ だ と 思う ん だ けど 、 なんて いう か こう 新しい こと なんか に 挑戦 する よう な 仕事 の やり 方 を さ せ るっていうのかな 。 本当 に 言わ れ た こと やら せる ん じゃ なく て 、 ま 、 自分 で 考え させ て み て よく お 役所 用語 で 、 ま 、 普通 の 民間 企業 で も ある の か も しれ ない けど 報連相 って 言葉 が あっ て 報告 連絡 相談 って いう の は 上司 に は 徹底 だっ て こと なっ てる ん だ けど 俺 が 部下 に 言っ てん の は 報連 って いう 報告 連絡 は 当然 だ けど 相談 から 提案 し て こ いっ て いう 考え で 俺 は こう 部下 に は 言っ てる ん で ま 自分 で 考え て やっぱ こう 提案 し て くる よう な 仕事 の 受け入れ 方 を し たい な と は 自分 なり に は 考え てる の と あと は ね 仕事 は 多分 それ なり に 試験 と か も 受かっ て 役場 に 入っ て くる だろう から それ なり の 当然 能力 は ある と 思う ん で そこ より も やっぱ ね プライ ベー トっ て いう か ま に 入り すぎる の も あれ だ けど 生活 の 面 で ね なんか 仲間 と うまく やれ てる か だ と か どう だ と か そこ ら 辺 の 面 の サポート 溶け込ん でる か 地域 に 溶け込んでるのかなとかそこら辺のサポートの方がもしかしたら大切になるのかなと思ってますけどね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。いや、もうそれはすごい感じてます。種谷さんの人柄が。そうそう。はい。いや、そうですよね。ま、仕事面以外でもやっぱプライベートとか本当に人とのコミュニケーションっていうのがうん。大事ですよね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございます。最後なんかはい。はい。これを求職者うん。 さんが、ま、見るような動画なんですけど、その人たちに向けてなんかはい。はい。背中を押すではないですけど、飛び出せるような一言というか、利尻の魅力も伝えつつ最後うん。素敵な場所だよ。是非おいでみたいな感じの一言いただいていいですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>すいません。ちょっといや、やっぱこう北の離島だからアクセスなんかもどうなのかなって心配してる人もいると思うんですけど、そこがやっぱ大切な部分なのか。 きっと 広田 さん なんか も 思っ てる と 思う けど 、 来 た 時 意外 と 都会 だ な と 思っ た と 思う ん です よ ね 。 コンビニ あっ たり 、 ホーム センター なんか も あっ たり 、 ま 、 昨日 行っ たり も し た けど 居酒屋 なんか も いい 居酒屋 が あっ て 、 で 、 やっぱ こう アクセス の 部分 って 考える と 、 ま 、 ね 、 フェリー は ね 、 観光 時期 に なる と 1 日 3 便 か ない 間 で 、 ま 、 1 時間 40 分 かかる けど 通年 で 出 てる し 、 ま 、 冬 なる と 2 便 と か 減っ ちゃう ん だ けど し 、 飛行 機 に 関し て は と 札幌 の 空港 と 通年 で もう 55 分 で 着く ん で 、 それ も 通年 飛ん でる し 、 今 の 時期 なんか は もう 金土 日 朝便 も あっ て 2 便 体勢 に なっ てる し 本当 に 実家 が 札幌 と か だっ たら 札幌 に 週末 ちょっと 帰り たい な と 思っ たら すぐ 帰れる し 夏場 の 6 月 9 月 と か だっ たら ANA なんか も 飛ん で て 千歳 の 直行 便 も 飛ん でる から 東京 なんか に も すぐ 行け ちゃう ん で 多分 みんな が 思っ てる より アクセス は いい と 思う ん です よ ね 。 しかも 自然 環境 に 関し て は もう 折り紙 つ きっ て いう か 本当 に 来 て もらえれ ば 絶対 好き に なっ て もらえる とこ な の か な と 思う ん で 是非 ね 来 て 大 自然 の 中 で まあ ま 、 若い 仲間 たち と イベント なんか も 結構 多く て 若者 が イベント 一緒 に なっ て 運営 し たり 手伝っ たり まあまあ ビール 飲み ながら ワイワイ やっ たり と かっ て いう こと も ある ん で そう いう 楽しみ も ある ん で 是非ぜひ ね利尻 と 素晴らしい とこ な ん で 本当 に 来 て もらい たい です ね 。 そんな一緒 に働き ましょう 。 はい</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- インタビュー終了後のやり取り -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ははい、いや、はい こんな感じで。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、良かったです。オッケー。オッケー。いや、何回聞いてもさん</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>いやいや、うまくいけばいいんだけどね。全部がね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。ありがとうございます。ちょっとマイクお願いします。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>はい。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>今日はこんなとこすか?そしたら</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>そうですね。なのでまた明日はい。はい。うん。大丈夫です。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ファンさんと</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>うん。また一緒に同行して。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、分かりました。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（種谷さん）：</div>
+    <p>LINE でも入れてもらえれば</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございます。 はい。ちさんも明日なった。あ、そうですね。ちょっと時間的にはい。後が今日はなしですか?</p>
+  </div>
+
+</div>
+
+</body>
+</html>

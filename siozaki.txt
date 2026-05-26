@@ -1,0 +1,1306 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<style>
+  .interview-container {
+    font-family: sans-serif;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  .questioner {
+    background-color: #e6f2ff;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-left: 5px solid #0066cc;
+  }
+  .respondent {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+    border-left: 5px solid #2ca02c;
+  }
+  .speaker-label {
+    font-weight: bold;
+    margin-bottom: 8px;
+  }
+  .section-break {
+    margin: 30px 0;
+    border-bottom: 1px dashed #ccc;
+  }
+</style>
+</head>
+<body>
+
+<div class="interview-container">
+
+  <!-- インタビュー前の打ち合わせ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>です。話してもらってきてます。そうですね。あと言うとちょっと基本的には会話みたいなずっとなんか聞きたいことを聞いて答えもらってじゃことをみたいな聞きたいことが出てきて聞いていくみたいになるんですけどちょっと一応聞かなきゃいけないか。 あるんでた皆さんメモとか見させてもらいながらお話する感じなんでちょっとお願いいたします。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いいですか?あ、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ありがとうございます。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>結構長々と喋る感じめちゃい喋るのは、ま、一言以上というか、ま、なんか好きなのですかて聞かれたとしたら、例えば僕質問 好きな食べ物は何ですか?ま、僕の好きな食べ物はオムライトです。ま、オムライトってロトロふわふわしてるじゃないですかみたいな。うん。その告があってとかそういうところから大好きでみたいな本当そんな感じで言ってくだされば何回でもトライできるので</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はいなんかまたあ、もう 1 回言い直しですかていうのは全然なく言いてください。好きなもの変わってなんでこうカットしてください。あ、編集とか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、もちろんはい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あとはそうですね、聞くのは基本僕とかあの広はいから聞くんですけどうん。聞いてる時はいいか喋ってる時だけ</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そうですね。塩崎さん自身が喋る時は吉岡と話してるみたいなことを</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>手というか話してほしいです。僕から質問したとしても塩崎は吉岡見るみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>的な感じでお願いしたいです。ちょっと テストテストテストテストさん喋っていただいてあ</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>オッケーです。完璧です。いいですね。じゃこのまま行きます。塩崎さんあれですか?飲みから行ったりとか聞こするんですか?なんか僕が聞いたのは島のみんなも結構飲みに行くよみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。結構飲み会 月 3 回ありました。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、結構遅くて遅くま 12 時ぐらいとか あ、そかね。僕は昨日結構頑張っちゃったんで。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、飲んだんです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>元気ですけど塩です。ちょっとお立てください。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 生活環境・住まいについて -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>え、あのさっきあのお伺したのであのあんま 1 人暮らしから引っ越しも意外と生活変わんないよねみたいな話。今日とかは塩ご飯と肉。肉って何?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>大体スーパーで売ってる肉ですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、焼くですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。スケ（？）</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、えっと、ご自宅からここまでどれぐらいなんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>自宅歩いてほと 5 分もかんないぐらいです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>確かです。なんか勝手に言えば決められるみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。去年の昨年の 9 月ぐらいにその採用させていただいてで家が決めたの が 2 月ぐらいですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いるか?あ、スポンサーとかじゃないんですけど、一旦時でもいいですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>飲みたい時全然飲んできた。あ、飲みたいです。た、あ、全然。あ、歩いてこれるんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>いつは歩いて来られます。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんか裏に青のタ、畳段とかがいっぱいあるじゃないですか?公園の。 ああ。はい。あの辺とまた違う場所もない。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>最近立ったばっかりでの方々は住めないですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう。なんか職員の方が住めるみたいな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ああ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>保育所の方もいるのです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>じゃあ、え、利尻町に雇用って決めたんで、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、ちょっと ですかね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>もう始まってますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>いや、全然あの、あ、始ま、始まってました。すいません。ごめんなさい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。ちょっと今から始まではい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 出身地と移住のきっかけ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、それ知らなくて始まった。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、もうね、自分で行きたいなと思ってちょっともらしちゃいました。元々生まれは北海道の東神楽町というとこで、ま、東神楽町は、ま、その言っても ああ、言われてないんですけど、ま、東川町の近隣として、ま、一応なんですけど、ま、その知られることはああって言われることは少ないんですけど、ま、育ちました。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ここはどういう風にあの気候とかあの天気とか利尻とか言われてが多かって風が強いとか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。ここは 結構風強いなと思うんですけど、自分のとこはそう盆地というとこなので結構暑さがひどいなということで、あと周りが自分の周りが田んぼだったので、ま、朝起きたら田ぼ匂いするっていう感じでしたね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そこで小中高大まで住まれて</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。はい。大学は札幌まで行かせていただいて っていう感じですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>その大学生の時に就活する中で利尻の役場に行こうって思ったのっていつ頃ですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですねと去年のあです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。ですかと去年の</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>うんと、ま、公務員試験色々受けさせていただいて、ま、その 中 で 色々 受け て 4 月 から 、 ま 、 受け させ て いただい た 大学 4 年 生 の で 色々 試験 受け て 、 ま 、 9 月 ぐらい に 、 ま 、 面接 行か せ て いただい て 、 ま 、 そこ で 、 ま 、 雰囲気 が とても 良く て 、 ま 、 こう 自分 海 好き な の も あり まし て 、 そこ で 、 ま 、 こう トライ し て み たい な と いう 気持ち に なり まし た 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>周り の 方 、 例えば あの 、 札幌 の 大学 で 同級 生 だっ たり 仲良かった人たちってやっぱり離島に移るっていう考えの方って圧倒的に少ないじゃないですか。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そん中でもやっぱ友達とま、離れるっていうですけど場所的には離れてその暮らしていくんだっていう決め手になった利尻がいいところとかあります。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですよ。周りがやっぱり札幌、東京と、ま、都会というか その 大 と か そう 近隣 中心 部 に みんな 行か れる 人 が 多い ん です けど 、 ま 、 その 中 で 自分 は その 人 が その 、 ま 、 好き で は ない と 言い ます か 、 ま 、 ゴミゴミ し た とこ より は その こう 地域 住民 と 、 ま 、 より 触れ合える とこ が 自分 が 成長 できる か な と 感じ まし て 、 ここ に なり まし た 。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島での人間関係やコミュニケーション -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>中 に 書い た 友達 と 今のどう変わっているかなって思います。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ま、そうですね。と、ま、札幌、ま、東京などよりは、ま、人とかかる機会が、ま、その電車とか東京とかあるんですけど、ま、その中でかかることないんですけど、と結構色々会話の中で優しくさせていただけるなという、ま、温かさが感じますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>めっちゃ人 もう 去年 から 3 回 目 と か し て 結構 頻繁 に し た ね 。 やっぱ 人 が いい ん で 地域 の 人 です 話し てる と か し です ね 。 東京 だ と あんまり です 。 元々 あの 利尻富士町て いう ま 、 利尻町 って いう の は あの って の 知っ て た</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい と 存じ上げ て おり まし た 。 はい 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ 、 それ は あの 年 大学 年生 に 色々 受ける 先 を 決める 中 で あっ た から 応募 し た か に 行き たい から 応募 し た 後 です ね 。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ま 、 自分 正直 な こと 言い ます と 宗谷地方 って いう で 応募 さ せ て いただい て ま 、 えっと 宗谷地方 だ と 豊富町 と か 枝幸町 さん と か 、 ま 、 色々 この ぐらい ある ん です けど 、 その礼文町 と か 利尻町 さん その 中 で 合同 の 試験 受け させ て いただい て 、 ま 、 自分 は 特に 、 ま 、 どこ 行き たい と か 最初 決まっ て なかっ た ん で 、 全 市町村 さ せ て もらっ て 、 そこ から 、 ま 、 ご 引記 通さ せ て いただい たら 、 そ 、 面接 の 案内 が 来 まし て 、 ま 、 そこ で 利尻富士町 さん から その 応募 いただい て そこ で 利尻町 さん 最初 は 利尻町 だけ か な と 思っ て た ん です けど 利尻富士町 が あ るっていうのをま 恥ずかし ながら 知り まし て そこ で まどう いう とこ か な て いう 自分 で ネット サーフィー し て み て ま 自分 海 好き だ し山 好き だ し とマッチ し て た の で その 魅力 感じ まし た 。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- ロケーションと自然の魅力 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほど です ね 。 ちょっと また そこ 深 んですけど、ま、元から海山好きっていうところで、ま、やっぱ実際に来た時に、ま、もう色々一緒受けると思うんですけど、率直にどんな印象を受けました?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。ま、海、自分住んでたとこは結構内陸だったので、海行くにも 3 時間、 4 時間だったので、ま、家の窓開けて海だったら、ま、すごい朝頑張れるなっていう気持ちになって あと波の音を聞いたら少しフレッシュな気持ちになりますね。です</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ね。本当このロケーションは</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>毎朝起きてもいいですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>本当に。え、家から海もんで</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。自分の玄関から海も山も見えますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>これぞ憧れた景色っていう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>海とか山の魅力ってなんだ?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。なんか自分らしく入れると言いますか、あと、ま、自分走ることが好きなので、ま、海と山見ながら走れるというとても贅沢な気持ちになってます。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 移住前の不安について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ですね。なるほどですね。も ですか?ちょっと待って。ああ、ちょっと重複しちゃうかもしれないんですけど、ま、その移住や就職を決める前、ま、 1 番怖かったなって思うところと、でもやっぱ実際こっち来てみたらことなかったなみたいな話をお聞きしたいんですけど何かありますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。ま、離島というイメージではその買い物が困るというイメージだったんですけど、ま、ここに移住させてもらって、ま、ニコットさんとか、ま、セイコーマートのコンビニとか、もありまして、ま、そこまで困ることはないですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うーん。なるほどですね。ま、じゃあそこら辺だけの不安というか、その買い物とかっていうところだけの不は 怖かったというか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>不安だったらいそうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ま、実際に来てみたら全然色々あるしっていうところ</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。です。なるほどですね。ま、じゃあその島に来てから 1 週間ぐらいちょっと思い返して欲しいんですけど、その時の心境というかなんか人に優しくしてもらったとか仕事内容楽しいとかそういうことはちょっとお聞きしてです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうです。島 に 来 て から 、 ま 、 しばらく 1人 で いる 期間 、 ま 、 とても 孤独 に 感じ た ん です けど 、 ま 、 仕事 させ て もらっ て 、 ま 、 仕事 も わあわ 会話 する 場所 で は ない ん です けど 、 ま 、 たまに その 話しかけ て もらっ たり 、 ま 、 最初 の 頃 は 気遣い で もらっ た の で 、 ま 、 多分 1番 新入社員 に とっ て 大変 な の は 、 ま 、 5 月 病 と 言わ れる 、 ま 、 ゴールデン ウィーク 明け な ん です けど 、 ま 、 その ゴールデン ウィーク 開け て も ま、気持ちがフレッシュに入れられたのはそういう温かくしてくれたのでたど思います。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 地域との関わりとお祭り -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。いいですね。人間関係コミュニケーション。それで言うと地域の人とかともコミュニケーションみたいなところもありますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。仕事柄上役場ということありまして結構、ま、主体がその地域住民のま、トップに立つてよくないんですけど、お手本になるような姿勢でいたいと思うので で 、 ま 、 日頃 から 、 ま 、 そ 、 ゴミ拾い だ と か 、 ま 、 地域 の イベント に は 、 え 、 大変 大切 だ と 思う の で 、 そこ で 、 ま 、 お 祭り だ と か ある と 思う ん です けど 参加 さ せ て いただい て と 、 ま 、 自分 離島 の 人 じゃ ない ん です けど 、 ま 、 離島 の 人 に 信頼 さ せ て もらえる よう な 人 に なり たい です 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとう ござい ます 。 1 万 て き ます 。 祭りってどんな感じか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうです。祭りはこれから 78 月にあるとお聞きしておりましてと、ま、結構楽しいお祭りだと聞いておりまして、結構ここに来てからお酒飲む方が、ま、多いなと印象でして、ま、お祭りでもお酒が飲むとか、ま、ま詳しいことは聞いてないんですけど、そう、日本酒 結構飲む方いられたり、お見越し担いだりとか、ま、結構、ま、都会ではないようなイベントがありますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>普通に入ってうん。その神社の町に朝から晩まで飲んでるゾンビみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。普通に</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- お気に入りスポット -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>今あの利尻島でお気に入りのスポットとか 場所とかでとかあげれたらあります。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。 1 番はサイクリングロードと言って、ま、自転車道がありまして、ま、今年は 5 月 25 から工事で閉鎖されてしまうんですけどと昨日も、ま、そこのサイクリングロードで走りまして、ま、天気いい日だと海も山も見えて、あと風がそのサイクリングロードだと吹かないのでとても心地よく、ま、自転車でも走りでも その運動することできますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いいですね。あそこのこういうかどか夕日が点在とかはそこ目の前に最近ロード結構都会うとサイクリングロードっていう時間なかったですね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう。あ、自分の近くにもあったんですけどはい。そうです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、場所はそこであってましたね。その夕日から</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>え、そうですね。夕日はい。 パーッと現れ。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。何かその他の場所あります?その他</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>近くに、ま、温泉保養施設という温泉ありまして、ま、そこに入らさせていただいて、ま、サウナがとても良かったなと印象でした。ま、あと露天ブロ外行くと天ブロあるんですけど、ま、風強いというそのデメリットになるんですけど、ま、普段活 でもその露天ブロでは、ま、メリットと言いますか、風強いからなんかその涼しいっていう感じになりましてとてもいいそう。風強いがメリットになっております。これ大好きな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。いいですよね。そこちょっとごめんなさい。面接食いたい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>緊張しますよ。 週どんぐらい行きたいですか?あの温泉</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>週いや週 34 ですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>飲み会と一緒の日ではい。なるほど。ありがとうございます。え、で、ま、新卒で入って本当に最初だとめっちゃ仕事もういうのも大変だしね、やることもいっぱいいっぱいいっぱいいっぱいあるみたいな引いてるんですけど。 失敗しちゃうことて、ま、じゃないですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>か、心も遅い、ま、失敗しましたら、あの、落ち込んでる時って声聞てくれる人とか、あの、いらっしゃるんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。基本的には、ま、本当に優しいというよりからやっぱ会社なん、会社という、ま、働く場所なので、ま、そんな優しい優しいという感じないんですけど、ま、な、何て言うんですかね。挨拶だとか、ま、その辺で 挨拶返してくれたら、ま、今日も頑張れると言いますか、ま、挨拶するだけで、ま、今日頑張ろうという気持ちになります。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いですね、大体ですね、優しいというか、やっぱり実なか、あの、人と人とのコミュニケーション的な部分で、ま、高い地域とみたいなところで会いがないとかな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 仕事の内容とやりがい -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ちょっと今更にやってんですけど ま、自己紹介みたいな感じで、ま、どんなところで働いてます、どんな業務をやってますみたいな</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ま、それにやりがいみたいなところもちょっと自分な感じでいただけたら嬉しいです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、分かりました。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>え、あ、自己紹介すか?自己紹介みたいな感じで</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ま、普通に今ここの役場で働いてます。で、どんな家にいましてこういうことをやってます。こういうことがすごい仕事のやりがい感じます。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>分かりました。え、 え 、 利尻富士町役場 の 塩崎 孝介 と 申し ます 。 え 、 普段 会計課 の 税務国保係 に 所属 さ せ て もらい まし て 、 ま 、 会計課 と 言う と 最初 は どんな とこ か 分から ない と 思っ て た ん です けれど 、 ま 、 仕事 さ せ て いただく うち に その 課 の 会計 だっ たり だ と か 役場 内 の 会計 お 金 の 管理 だ と か とても ま 、 難しい と 最初 感じ て た ん です けれど 、 そう お 金 の 扱う こと だ から より シビア と いう ますか、とても緊張感あるので、ま、まだまだ自分も、ま、全然その未熟なので、やっぱり日頃からその緊張感と言いますか、それを大さずにこれからもその成長していきたいです。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 休日の過ごし方 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありがとうございです。分かりながら真面目で責任感が溢れて塩崎さんらしい、ま、仕事は仕事 ことでめっちゃ、ま、一生懸命されてると思うんですけど、休みの日ってどういうことされされることですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね、休みの日は、ま、札幌とか東京とかに頃よりは、ま、そこまで生活は変わらないんですけど、ま、 1 番はその、ま、やっぱり札幌済ませていただいた時は結構映画館だったりとかショッピングモールとかそこ行く機会多かったんですけれど、ま、今は結構 体を動かす自然と歩い歩いちゃうみたいな感じで、ま、自然探索と言いますか、ま、主に自然が遊びみたいな自然と遊ぶと言いますかという感じになります。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そうですよね。みんな自然あったらね、忘れてるね。登山とか好きな</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうです。登山はあんましたことないんですけれど、これからしてみたいと思います。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>が好きなとかもいいんで釣れはあんまり</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう自分も釣りその両親から釣り具のセットいただいたんですけど、ま、自分自身その、ま、チャレンジしたんですけど、まだ釣れてなくて、ま、 10 月の酒釣りには行きたいと思ってます。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>があります。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 移住後の変化と準備しておけばよかったこと -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>僕らんですけど、 体験 し たい な 。 ちなみ に 2 年 前 、 ま 、 あの 島 の 暮し て こんな ん だろう な イメージ さ れ て た と 思う ん です けど 、 実際 に その イメージ みたい です 。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です ね 。 うん 。 やっぱ 普段 遊ぶ 若い 人 は やっぱり パチンコ と か ま 、 まいか ない と 思う ん です けど 、 パチンコ 映画 と か 映画 館 と か 、 あ 、 結構 ショッピング モール と か 行く 方 多い ん です けど 、 その 最近 だ スマ 、 スマート フォン 発展 し て やっぱり 自分 は 結構 便利 に 頼っ てる 性格 だっ た の で 、 ま 、 結構 休日 ある と その ショッピング モール と か に 遊び に 行っ て しまっ て 、 ま 、 便利 に 頼り すぎ て お 金 も 結構 使う 方 だっ た の で 、 ま 、 その 中 で 自分 自身 が お 金 その 結構 きっちり 管理 し たい 人 な だっ た の で 離島 に と いう イメージ だ と やっぱり お 金 も 管理 でき て なおかつ その 遊ぶ場所 も 限られ てる と いう こと な の で 、 ま 、 自分 自身 が 何 を する か 、 え 、 自分 自身 が 何 を し たい か が よく 考え られる 場所 です ね 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あの 、 ま こう いう 島 だろう な と 移住 し て き て で 、 ま 、 やっぱり 実際 に 札幌 に 住ま れ て き た 時 と か 地元 に 住ま れ て た と 生活 は ましら 変わっ た ん です けど 、 もう ちょっと こう いう 準備 し て おけ ば よかっ た 。 移住 前 の と か そう いう の に あの 心構 使 あの これ から 移住 する 方 のみ て なんか あり ます か ?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です ね 。 まず ここ に 来 て 携帯 ショップ が ない 。 って いう こと だっ た の で 、 ま 、 自分 携帯 が 壊れ たって なっ たら 電話 一切 使え ない の で 、 ま 、 あかじめ その 携帯 ショップ さん に その 壊れ て も いい 時 の ため に 確認 し て その 先 と か 壊れ た 時 の 対処 法 と か 聞い とく と いい と 思い ます 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>更新 そう です 。 自分 ばっかり の 存じ ない ん です けど ちょっと調べてみますね。い、なるほどですかね。ま、やっぱ東京とか、ま、札幌とかやっぱコンビニとか少ないわけじゃないですか、ま、不便さありながらも、ま、なんかありがたみというか、っていうのを増すものなのかなっていうか、っていうのを聞きたいんですけど、これで住所で使ってそう 不便さとかですかね。まあなんか便利さはあるじゃないですか。札幌とか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>その東京とかもうフラッと行けるみたいな。もうそれことを少ない中でのなんかなんて言うんだろう。東京とかでは感じられないようなありがみたいなのはちょっと知りたいなっていうかちょっと質問の人がこれ一旦なしにしまし。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>うん。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ごめんなさい。じゃあやっぱ崎さんがこの島に行って正解だなと確信した瞬間みたいなのを</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ちょっと本当ここに来てよかったみたいなとこてんですけど。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですよ。も自分は前までお金散々散々と言いますか、ま、あったら使うという性格だったんですが、今結構慎重な性格になりまして、ま、そう金の管理がしっかりできたりと、ま、自然が溢れてるので、ま、普段走ること多いと言ったんですけれど そ 、 走 、 走る コース も やっぱり 自然 で 自然 の 中 に い まし て 、 ま 、 一昔 前 に 来 た と いう 感じ じゃ ない ん です けど 、 その 本来 の 人間 に なっ た な と いう やっぱり スマート フォン ばっかり だ と か ゲーム ばっかり の 生活 だっ た の で 、 ま 、 1 回 それ を 手放し て 、 ま 、 本来そう こう 自分 が こう ある べき だ な と いう 感じ に なり ます ね 。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 会計課での住民とのやり取り -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>話 は 聞 ですけど会計課</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>会計課家だと普段のでやっぱりあの民の方とかと触れ合うことってありますか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。会計課とイメージとしては、ま、スク、ま、そんなにバッとかかる機会っていうのは毎日毎日ないと思うんですけれど、やっぱ 1 つ 1 つ今固定資産税とかの通知を送らさせていただいてその中で、ま、住民の方に足払 て いただく よう 、 ま 、 強制 と いう 形 、 ま 、 強い 形 に なっ て しまう ん です けど 、 ま 、 その 中 で やっぱり 信頼 関係 気づく こと で やっぱり 住民 の 方 に も これ だっ たら 気軽 に 入ら れる な と いう やっぱ 信頼 関係 だ と 思う の で 、 そこ で コミ 普段 コミュニケーション 取る から そう 気軽 なく 払っ て もらえる いただける の か な と 思っ て い ます ね 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>普段 の 仕事 で 初心 な 方 と 出会える か 、 ま 、 出会っ て いう か 答え ん です けど 、 やっぱ そう いう 時 に 、 ま 、 いい 反応 や コミュニケーション が 取れ たら 、 ま 、 やりがい が ある なっ て いう 風 に 感じ たり する と 思う ん です けど 、 正直 さん と か</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です ね と 普段 自分 は 会計課 に 所属 し て おり まし て 、 会計課 が 役場 の 1番 その 席 が 前 な の で 自分 が 多分 戦闘 に あたり まし て 結構 役場 さん 役場 から 入っ て 皆 さん 福祉 家 さん と か は 窓口 多い ん です けど そこ に 行か れる 方 が 結構 自分 の か の 前 通っ たり だ と か その 時 に 挨拶 ま し て 挨拶 する と ま 相手 も ま 気持ち あう の か な と 思っ て まし て すごい 意識 し て ます</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>の 方 と 話す 機会 が 多い の に なんか なる か も しれ ませ 。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 外での撮影準備と雑談（利尻_塩崎さん_02.mp3の内容） -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ちょっとちょっと遠くて、ま、後ほど僕着陸してくるんで、ここは登ったことないんですよね、自分。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、本ん当ですか?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。登こまず一瞬で登れますね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、昨日ね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>途中まで。じゃあ、ちょっと海とこのが入る感じの あ、はい。汚れちゃうかも。こつ感じで大丈夫。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。大丈夫。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。インレーション参考レーション。さっきの出したのも 全然この自然って感じではない。あれ聞いてたら申し訳ないですけど、あの移する前の不安使ってあります。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、ごめんなさい。する前に不安とかってなかった。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ありました。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、不安がありましたね、結構。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ど行った?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうです。携帯ショップないから壊れたらどうするんだろうなということでしたね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、ま、始まってますか?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。また寝ると</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>わかんないよ。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>言うとそれ以外携帯以外でなんかそれこそ食料とかどうなんだろうみたいな話もちょっとしたと思うんですけどそれ以外とか交通の便とかなんかフェリーが欠航したらどうなるんだろうみたいなところとかはなんかありませんでしたか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です 。 自分 その 交通 期間 だ と か 、 ま 、 頼ら ない 性格 だっ た の で 最初 車 も いら ない か な と 、 ま 、 感じ て た ん です けど 、 ま 、 みんな ここ に 来る 前 に 車 が 必要 だ な と いう 声 いただき まし て 、 ま 、 車 今 持っ てる ん です けど 、 ま 、 それ まで 本当 車 なく て も 本当 ある 歩い たり 自転 車 来い だり 、 ま 、 自力 で な何 と か し たい と いう 、 ま 、 自分 は そう です 。 スーパー も 本当 は行かなくてもいいぐらいな生活したいと結構野生きな性格なんですけど思ってますね。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 海外旅行やフェリー欠航について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。でもどこでも生活できますって感じですね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>へえ。海外とか行かれたことあります。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>海外はないですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ないですか?なるほどですね。なんか是非行ってみもらいたいです。旅行とかは普通に国内で旅行とか終わったりするんです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですよ。大阪 名古屋 ま 、 結構 大 都市 と 言わ れる 部分 、 あと 北海道 内 たら 結構 自分 は 知床 最近 行き まし て 、 そこ も ま 、 自然 が たくさん な の で とても 自然 大好き だ から</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>利尻町めちゃ ぴったり</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ちなみ に その あまし 不安 は ない と は いえ 、 利尻富士町 から 、 ま 、 ご 家族 に なんか あっ た 時 と か あの 急い で 帰る みたい な フェリー が 出 なかっ たり 飛行 機 が 出 てる 時間 が なかっ たり するっ た 時 に 結構 シビア だ な と 思っ て どう いう 点 と か に 言わ ん とかっ て なかっ た ん です か ? 来る 前 。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です ね 。 実際フェリー が ま 、 欠航 する と は ま 、 聞存じ あげ て なく て 度々 波 高い 時 と か 天候 に よっ て 、 ま 、 欠航 する ん です けれど 、 ま 、 それ も 、 ま 、 自然 な 形 な の で 、 自分 は そんな 腹立て たり と か 、 ま 、 帰れる 時 に 帰れ ば いい か な と思 です ね 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>塩崎 さん は 利尻町 が 自分 に ぴったり だ と 思っ て ます か ?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ 、 はい 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>それ は なぜ ?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう です ね 。 やっぱ 自分海 と この 、 ま 、 お 金 、 お 金 と 言い ます か 、 ま 、 結構 お 金 の 管理 し たかっ た の で 、 ここ あと きっちり 自分 の 管理 が できる と 言い ます か 、 こ 結構 利尻 に 来 て 、 ま 、 広い と 感じる 本当 は もう 離島 と いう イメージ だ と 結構 狭 と いう イメージ だっ た ん です けど 、 ここ 本土 と 変わら ない ぐらい で 石 な の で 、 ま 、 も 1 日で十分ぐらいの距離だと思うんで、ま、広すぎ狭すぎずというイメージですね。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- ロケの移動中 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なるほどですね。車やばい。うん。全然。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、本当?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いや、嘘やばいんだけど。じゃ、ちょっと戻りつつまた</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>行きますか。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。 左にこんな感じで歩いて。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、歩いていいです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、いい、いいですよね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>さん好き。山と海だったらどっちが好きですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>うーん。あ、海ですかね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>海、海すごいすよね。今日めっちゃあれし、あの、が見えます。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうすね。あれ トヨタ道がかわかんないですけど。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。そうやの。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうすね。線が僕も好きな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ああ、強いもでそこまで波強い日ないですけど。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ここ来てから。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>僕昨日とか昨日とかにすごい波強く見えたんですけど、まだま 甘いか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうですか。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>甘いか。ちょ、僕ちょっとビビっちゃってましたね。風はやっぱ慣れないですね。うん。洗濯物</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>洗濯物は家の中からの感じ。はい。こから見る海が一番好き。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>海サイクロード行って欲しいです。 セクロードもバーって通</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>こっちもいいんですけど、あっち側</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あっち</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>がもいいです。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あの押しの方。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>確かに昨年あのキャンプ場</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんか温泉あるって言いましたじゃなですか。そこ奥行ったらまた綺麗ななんか橋がありますしそっから見る。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、思い出す。はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>姫沼の方ですよね。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうです。姫沼の方。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 島の飲食店と飲み会について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、ちょっと左意外とそっか島に来て初めて食べたるんです。恥あ、ラーメン行きましたね。ミラクの。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、ちょっとそれ後ほどインタビューしてもいい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ミラクはダメですね。はい。利尻富士町ではなかった。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ、そうすね。さんに怒られ</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そでも聞きたいんで、個人的に行きたいんで聞くんですけどやっぱり昨日たまたま飲んでたらミラクの女将さんが隣の席で</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうなんですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そうお声がけただいて素敵。お、最後あれそぐらいしか言ってないけど。そう、そう。喫煙じゃね。そうし、もう人いでまた え、どこ飲みに行かれたんですか?昨日は色ハでハったで 3 回ぐらい行っちゃってたんで。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、そうなんですか。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あの、拳 早めに拳に移動してたままし。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ、そうです。ですよ。拳掲げたままピアスに入ります。シやって。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、結構 行かれんすよ。ま、でも島に来たらそれこそ短い中で、ま、方とあのご挨拶があ</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そしたら、ま、気づいたらいるって。うん。自分たちの意思はないんです。あれか。あ、もうここ。あ、もう 1 個先でもどこでも。あ、山バックがめっちゃ綺麗ね。前バックちょっと取りたいな。歩いてる姿とかなんか。 さんの休憩とかってご飯食べに行くんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>大体家帰ってますね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、皆さん帰るんですね、本当。なるほどですね。なんかそっから帰ってきてますか出しますか?だけ出しますかって僕が解決しちゃった。出したいんでさっきの道。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>え、岩さんの時は何取ったんですかね?</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 動画の意図と撮影の打ち合わせ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>岩さんは、ま、えっと、塩崎さん含め 3 名の方インタビューさせていただいてるんですけど ま、崎さんは若手のホープ島の未来みたいなところでなのを知れるような動画を作りたいっていうのと種やさんはもうこの島をずっと守り続けて 45 年っていうところま、中堅というか、ま、色々知ってることをお話ししてもらって、岩南さんに関しては、えっと、ご家族、旦那様とお子様のこんな家族のリアルな暮らしがあるよっていうのを、とさんに伝えられるような動画を撮りました。 こんな回答で大丈夫です。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、大丈夫。ちょっと緊張しちゃって。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>すいません。どういうのってのあれです。答えになってなかったですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>いや、ちょっとわかんない。どういうのった?ま、本当あ、確かに全然なった。もうあのみ普通にさっきしたあのインタビューですかね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>インタビューとあとはなんかパソコン叩いてるみたいなとことあとなんか今言ったあの丘の 台の草になんか取れてるみたいな。それ仕事の間で直すみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ、</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>そういうの今やってるよみたいな。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、いいですね。いい答えて。ああ、本当ですか?全然答えてなかった。本質的なところを。すいません。失礼しました。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ま、でもわかんない。塩崎さんのシーンシーンとして何が聞きたかった。確かに合ってました。今ので。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、大丈夫です。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>じゃあどっちが合ってました?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、いや、さんだ。 全然お違いして自分でいいな。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ごめん。白くてしまった。ちょっと、あ、待って。あれなんですけど、ここら辺からいつも正面の方行ってますか?ごめんなさい。ちょっと周りラーメン確かにいいな。あのたちかまとかって北海道に住まれてる時に食べ</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>たちかまえ立ちまってんすかね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うわ。あ、 た方がいい。めちゃくちゃ美味しい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>え、北海道あるんですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いや、北海道もわかんなくて僕利尻富士町で初めて知たんです。たちまていう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、その話終わったらちょっと撮影したいなって。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ、</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>全然知りたいですか?勝ち。たちかま。な何の?今忘れた。けそうだ。けそう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>けそうだ。はい。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- シーン撮影の指示 -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、今のうち飲んでおいてください。 ちょっとバって本当一瞬なんですけど、こう家から帰ってきましたよっていう。でもその先にはこんな東大な山があるっていう尻り山があるっていう魅力を伝えたいっていうです。な、</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>めっちゃ恥ずかしい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>やばいやばい。ちょっとここをまっすぐ歩いて海眺めるみたいな感じで歩いてください。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いいですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>歩けばいいんですかね?</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>はい。なんか休憩終わってかれ かな。よし、頑張ろうと思った先にあんな綺麗な景色があって、おっしゃ、今日もまだ頑張れるみたいなああ、感じの映像を取りたいです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。もう普通ただただ普通に歩くだけで大丈夫です。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、ちょっと疲れたなって感じ。ちょっとやめときましょう。のただ普通に歩いて休憩から戻ってきたよっていうだけ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、休憩はいつもあっちから来てんですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、それあっち側からじゃいつもの慣れた場所から歩きましょうか。 いや、そうです。やっぱここの絵が綺麗だと思うのでやっぱごめんなさい。役場と映ってる。ちょっと塩崎さんには少しそうをついてもらうことになりそうです。ま、ただもうそこからあっちの入り口歩くっていう感じではい。ただたに歩くだけで大丈夫です。じゃあお願いしてもいい。こう入り口までてで正面玄関の方 さ はい。ありがとうございます。今もう 1 回歩いてもらってもいいですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、じゃ、あ、はい。すいません。ではお願いします。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>めっちゃ緊張しません?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、緊張し。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>なんかいつもと違う歩き方をするのではないかと不安にますよね。 じゃ、ちょっと、今これからの流れははい。その仕事休憩を本当 10 カットぐらい取らさせていただいたらもうそれで終わりです。ちなみに塩崎さんはあの中入る前に話聞いちゃうか。ああ、銃からその誘惑がない。その、ま、散しない生活だったと思うんですけどそれ はやっぱり来たからこそ分かったことです。前とかはどうだったんですかね?何をしたいとか思いが来たんですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>振る舞釣りしたいなと思ってたんですけど、ま、今は疲れてそれどころじゃないか。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。なるほどですね。仕事頑張られて。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。いや、仕事いや、そこまで今は仕事ないんですけど。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>うん。 了解です。ちょっと待ってながら LINE とかいいですか?ちょっと今日の流れとかそう取りたいのにちょっとの人にご挨拶だけしてはい。いう流れで行きましょう。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>え、もうすぐそこのかってことですよね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、そうです。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>了解です。すいません。ありがとうございます。</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 移住を考えている人へのメッセージ -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>こさん、広田です。改めましてます。ちなみに やっぱ移住を決断される人ってやっぱ北海道でもかなり少ないじゃないですか。こっちまで</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>で、東京とかもう結構ルーティーンワークとかでめっちゃ人込みも多い中すごいしんどい思いして毎日暮らしてる人ともう結構いるんですけど例えばそういう人が利尻町に移住しようかなって考えて けど決意できない動けないみたいな人になんか背中を押してあげるような塩崎さんの視点からのメッセージをしてもらいたくて</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、はい。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>どうですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、始まっちゃう。あります。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>いや、せっかくちでもいいですか? 11時には絶対終わります。生だけでもらおうと思った。いや、ちょっとは ベカベカ し て あの こっち側 か いや こ車いっぱい じゃ ない こと うまい こと やり ます サイレント 質問 が 塩崎 さん いや ダメ だっ た そう です ね ここ ら 辺 から でどっち が どっち が 好き です か と 山 めっちゃばっちりですね。あの車だけ隠します。仕があっちまった。あと 1 個来れます。オーケーです。完璧です。じゃあ岡さんお願いしますか?ま、移住したいとは思ってるけどその踏生み出せない人に一言お願い</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。え、ま、自分も 先輩 に 、 ま 、 1人 、 え 、 気 に かけ てる 方 が い まし て 、 それ し たら の 方 な ん です けど 、 ま 、 そう いう 離島 以外 の 方 も 、 ま 、 いる の で と 、 そう いう 人 たち も いる の で 、 ま 、 気 に なさら ず 、 え 、 ま 、 自分 が 言う の も あれ な ん です けど 、 ま 、 トライ し て みる の も いい と 思っ て ます 。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>オッケー です 。 ありがとう ござい ます ね 。 ごめん なさい 。 せっかく この カット の ため に なる 方 怒られそうです。何ですか?</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>内色の方。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>内色な。いや、先輩にはい。いて、どう言にすか?ちょっと僕なロナオレシティってありますし。はい。北海道のああ、全然ごめんなさい。試験が結構どの辺なんですか?北海道ってあのこうあるじゃないですか。どの辺の?あ、これ北海道に見えますよ。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、見えてきました。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ど、どの辺の?ここからちょっと</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>ああ、じゃあちょっと入った。これわかんないと旭川の中間ぐらいす。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>ああ、そうなんですね。あ、先輩も関さんのあの上司の方もで来られてる。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そうです。なるの行ってはい。そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>へえ。いや、ちょ、今のカットすかね。全然大丈夫すよ。ま、逆に逆にっていうか、ま、糸に合ってる。あって 普通にやっぱ移住してる人もいるよっていうのは知れたら嬉しい。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あのあれですよね。ミラは使えないねみたいな話そうなのも利尻富士町の仕事で来てまでもそうに利尻町じゃないですか。だから塩を避けてるみたいなところ気使って僕らが気使ってるところあります。なんかせっかくだったら 利尻町のものをしても利尻と慣れではのものをあ、そうじゃあ 10 分後に設定開始感じでちょっとまたまた下戻ってくるのでします。</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>はい。ありますか?あ、ボックスはないです。 やっぱ 1 回上ではって。はい。 下で話すの?</p>
+  </div>
+
+  <div class="section-break"></div>
+
+  <!-- 仕事風景の撮影について -->
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>あ、はい。えっと、さっき業務の取りすっていうお話なんですけど、そのどういったことを普段やってるのかっての先にあらかじめしていきたくなんかありますか?どういったこと?例えばデスクワークパソコンってますとかなんかその他ちょっと会級をやるやってることみたいなフラやっていうか</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>そう、あ、そうですね。</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>これちょっとあのインタビューではなくなんて言うんだろう。そのシーンを取りたいからっていうのでどんなことをやってるのかなっていうのを</p>
+  </div>
+  <div class="respondent">
+    <div class="speaker-label">回答者（塩崎さん）：</div>
+    <p>あ、主パソコン作業って書</p>
+  </div>
+  <div class="questioner">
+    <div class="speaker-label">質問者（スタッフ）：</div>
+    <p>作業ですね。なるほどね。なるほど。あと先輩の買ったのその窓口タ温見させてもらってうん。足りなるほどですね。あ、ちょ、ちょっとマイク ありがとうございます。</p>
+  </div>
+
+</div>
+
+</body>
+</html>
+```
